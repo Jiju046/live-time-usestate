@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/live-time-usestate/static/css/main.03f1c4fa.css",
+    "main.js": "/live-time-usestate/static/js/main.e795957c.js",
+    "index.html": "/live-time-usestate/index.html",
+    "main.03f1c4fa.css.map": "/live-time-usestate/static/css/main.03f1c4fa.css.map",
+    "main.e795957c.js.map": "/live-time-usestate/static/js/main.e795957c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.03f1c4fa.css",
+    "static/js/main.e795957c.js"
+  ]
+}
